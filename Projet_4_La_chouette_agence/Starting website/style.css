@@ -35,6 +35,10 @@ a:hover {
 	padding: 5px;
 }
 
+.logo-size {
+	height: 40px;
+}
+
 .bloc {
 	width: 100%;
 	clear: both;
