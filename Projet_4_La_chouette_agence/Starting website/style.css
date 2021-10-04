@@ -689,7 +689,7 @@ a {
 }
 
 p {
-	font-size: 11px;
+	font-size: 18px;
 }
 
 .tight-width-whitespace {
@@ -765,8 +765,14 @@ h4 {
 }
 
 .black-background {
-	background-color: rgba(165, 147, 99, 0.7);
+	background-color: black;
 	padding: 40px 40px 40px 40px;
+	opacity: 0.8;
+}
+
+.font-opacity {
+	background-color: black;
+	opacity: 0.8;
 }
 
 .bold-link {
