@@ -374,6 +374,14 @@ a:hover {
 	z-index: 2;
 }
 
+.form-group {
+	padding-bottom: 15px;
+}
+
+.contact-size {
+	width: 27%;
+}
+
 @media (min-width: 768px) {
 	.site-navigation {
 		position: absolute;
@@ -693,7 +701,6 @@ p {
 }
 
 .tight-width-whitespace {
-	max-width: 600px;
 	margin: auto auto auto auto;
 }
 
@@ -789,7 +796,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-	background-color: #f3976c;
+	background-color: black;
 }
 
 .tc-white {
